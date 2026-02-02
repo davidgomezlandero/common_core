@@ -1,0 +1,13 @@
+*.sw
+*.pdf
+*.md
+.vscode
+*.o
+cub3D
+gitignore
+*.a
+#*
+#!ex*
+#!ex*/*.cpp
+#!ex*/*.hpp
+#!ex*/Makefile

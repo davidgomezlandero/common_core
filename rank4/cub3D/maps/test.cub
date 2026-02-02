@@ -1,0 +1,14 @@
+NO ./sprites/beds.png
+WE ./sprites/campus.png
+SO ./sprites/cluster.png
+EA ./sprites/lobby.png
+
+F 171,181,187
+C 50,50,52
+
+1111111
+100S001
+1000001
+1000011
+11111101
+1111111

@@ -2,6 +2,7 @@
 *.pdf
 *.md
 .vscode
+.DS_Store
 #*
 #!ex*
 #!ex*/*.cpp

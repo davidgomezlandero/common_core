@@ -11,7 +11,7 @@
 # *.key
 
 # Node modules (if you use Node.js)
-#node_modules/
+node_modules/
 
 # Temporary system files
 #*.swp
